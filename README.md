@@ -16,7 +16,7 @@
 2. Change to the project directory:
 
    ```bash
-   cd portfolio_app
+   cd fortune_wheel_app
    ```
 
 3. Install the dependencies:
